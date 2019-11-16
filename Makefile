@@ -1,4 +1,4 @@
-DOCS = index 
+DOCS = index index_en
 COMPILER = jemdoc.py
 CONF= mysite.conf
 
